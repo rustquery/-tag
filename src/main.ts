@@ -10,11 +10,11 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
       </a>
       <a href="https://github.com/rustquery/-tag" target="_blank">
         <span class="tag">
-          @tag
+          @angular
         </span>
       </a>
     </div>
-    <h1>Vite + @tag</h1>
+    <h1>Vite + @angular</h1>
     <div class="card" id="counter_app">
       <button id="counter" type="button"></button>
     </div>
